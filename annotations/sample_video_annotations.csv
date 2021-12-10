@@ -1,0 +1,4 @@
+video_file,start_time,end_time,label
+sample_video.mkv,0:00:00,0:02:10,sample_label_1
+sample_video.mkv,0:02:10,0:03:31,sample_label_2
+sample_video.mkv,0:03:31,0:03:51,sample_label_3
