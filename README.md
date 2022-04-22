@@ -1,1 +1,1 @@
-# VideoAnnotationTool
+# VideoAnnotator
