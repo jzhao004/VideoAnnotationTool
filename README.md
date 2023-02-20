@@ -1,5 +1,7 @@
 # VideoAnnotator
 
+![Img](https://user-images.githubusercontent.com/33961266/220173227-3ff12750-e4f6-41a0-bf1c-52f9dec664df.png)
+
 Sample annotations:
 
 |    video_file    | start_time | end_time |     label      |
